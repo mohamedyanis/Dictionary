@@ -1,6 +1,6 @@
 # Python Dictionary
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 #100daysofcode This is a simple dictionary app written in Python With Tkinter module and other libraries like PyDictionary and googletrans
